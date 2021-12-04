@@ -1792,7 +1792,7 @@ background-position: 0 -70px;
 /*END FightPad Pro Controller Styling*/
 /*BEGIN Fight Stick Controller Styling*/
 .controller.fight-stick {
-    background: url(https://i.imgur.com/3fZZfL3.png) center no-repeat;
+    background: url(stick-assets/base.png) center no-repeat;
     height: 534px;
     width: 1122px;
 }
