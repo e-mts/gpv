@@ -7,10 +7,10 @@
     width: 635px;
 }
 @keyframes butthaha {
-    0% {background: url("../assets/button1.svg");}
-    25% {background: url("../assets/button2.svg");}
-    50% {background: url("../assets/button3.svg");}
-    100% {background: url("../assets/button4.svg");}
+    0% {background: url("https://mlgesus5183.github.io/assets/button1.svg");}
+    25% {background: url("https://mlgesus5183.github.io/assets/button2.svg");}
+    50% {background: url("https://mlgesus5183.github.io/assets/button3.svg");}
+    100% {background: url("https://mlgesus5183.github.io/assets/button4.svg");}
 }
 
 .custom.disconnected { 
@@ -33,7 +33,7 @@
     width: 100px;
     height: 100px;
     border-radius: 100%;
-    background: url(../assets/button1.svg);
+    background: url(https://mlgesus5183.github.io/assets/button1.svg);
 }
 
 .custom .trigger-button.pressed {
@@ -66,7 +66,7 @@
     width: 100px;
     height: 100px;
     border-radius: 100%;
-    background: url(../assets/button1.svg);
+    background: url(https://mlgesus5183.github.io/assets/button1.svg);
 }
 
 .custom .bumper.pressed {
@@ -101,7 +101,7 @@
     height: 100px;
     border-radius: 100%;
 	position: absolute;
-    background: url(../assets/button1.svg);
+    background: url(https://mlgesus5183.github.io/assets/button1.svg);
 }
 
 .custom .button.pressed {
