@@ -138,8 +138,8 @@
     position: relative;
     top: 0px;
     left: 0px;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     background: url(https://mlgesus5183.github.io/guilt/ball.png) no-repeat;
     background-position: center;
     transition: background-position 24ms;
