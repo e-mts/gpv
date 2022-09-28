@@ -25,6 +25,12 @@
     top: 0px;
     background-position:center;
 }
+.custom .bumper.left {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-position:center;
+}
 
 .custom .triggers {
     width: 300px;
