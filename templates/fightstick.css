@@ -172,25 +172,25 @@
 
 .custom .fstick.up.right {
     opacity: 10%;
-    background-position: 650px 50px;
+    background-position: right top;
     opacity: 100%;
 }
 
 .custom .fstick.up.left {
     opacity: 10%;
-    background-position: 50px 50px;
+    background-position: left top;
     opacity: 100%;
 }
 
 .custom .fstick.down.right {
     opacity: 10%;
-    background-position: 650px 650px;
+    background-position: bottom right;
     opacity: 100%;
 }
 
 .custom .fstick.down.left {
     opacity: 10%;
-    background-position: 50px 650px;
+    background-position: bottom left;
     opacity: 100%;
 }
 /*END Fight Stick Controller Styling*/
