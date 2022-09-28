@@ -1,0 +1,195 @@
+/*BEGIN Fight Stick Controller Styling*/
+:root{
+	--butthaha-speed:(200ms);
+}
+.controller.custom {
+    height: 260px;
+    width: 635px;
+}
+@keyframes butthaha {
+    0% {background: url("../assets/button1.svg");}
+    25% {background: url("../assets/button2.svg");}
+    50% {background: url("../assets/button3.svg");}
+    100% {background: url("../assets/button4.svg");}
+}
+
+.custom.disconnected { 
+}
+.custom.disconnected div {
+}
+.custom .triggers {
+    width: 195px;
+    height: 130px;
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+}
+
+.custom .trigger-button {
+	--butt-r: getQueryVariable("r");
+	--butt-g: getQueryVariable("g");
+	--butt-b: getQueryVariable("b");
+	--butt-a: getQueryVariable("a");
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background: url(../assets/button1.svg);
+}
+
+.custom .trigger-button.pressed {
+    animation-name: butthaha;
+    animation-duration: var(--butthaha-speed);
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+/*
+.custom .trigger-button.left {
+    position: absolute;
+    bottom: -5px;
+    right: 2px;
+}
+*/
+.custom .trigger-button.right {
+    float: left;
+    bottom: 27px;
+}
+
+.custom .bumpers {
+    width: 195px;
+    height: 130px;
+    position: absolute;
+    right: 0px;
+    top: 20px;
+}
+
+.custom .bumper {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background: url(../assets/button1.svg);
+}
+
+.custom .bumper.pressed {
+    animation-name: butthaha;
+    animation-duration: var(--butthaha-speed);
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+/*
+.custom .bumper.left {
+    position: absolute;
+    top: 35px;
+    right: 2px;
+}
+*/
+.custom .bumper.right {
+    position: absolute;
+    left: 0px;
+    top: -2px;
+}
+
+.custom .abxy {
+    width: 200px;
+    height: 225px;
+    position: absolute;
+    bottom: 30px;
+    right: 190px;
+}
+
+.custom .button {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+	position: absolute;
+    background: url(../assets/button1.svg);
+}
+
+.custom .button.pressed {
+    animation-name: butthaha;
+    animation-duration: var(--butthaha-speed);
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+.custom .a {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.custom .b {
+    position: absolute;
+    bottom: 25px;
+    right: 3px;
+}
+
+.custom .x {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+}
+
+.custom .y {
+    position: absolute;
+    top: 0px;
+    right: 3px;
+}
+
+.custom .fstick{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1000px;
+    height: 1000px;
+    background: url(https://mlgesus5183.github.io/guilt/ball.png) no-repeat;
+    background-position: center;
+    transition: background-position 24ms;
+    transition-timing-function: steps(3)
+}
+.custom .fstick.up {
+    opacity: 10%;
+    background-position: center top;
+    opacity: 100%;
+}
+
+.custom .fstick.down {
+    opacity: 10%;
+    background-position: center bottom;
+    opacity: 100%;
+}
+
+.custom .fstick.left {
+    opacity: 10%;
+    background-position: center left;
+    opacity: 100%;
+}
+
+.custom .fstick.right {
+    opacity: 10%;
+    background-position: center right;
+    opacity: 100%;
+}
+
+.custom .fstick.up.right {
+    opacity: 10%;
+    background-position: 650px 50px;
+    opacity: 100%;
+}
+
+.custom .fstick.up.left {
+    opacity: 10%;
+    background-position: 50px 50px;
+    opacity: 100%;
+}
+
+.custom .fstick.down.right {
+    opacity: 10%;
+    background-position: 650px 650px;
+    opacity: 100%;
+}
+
+.custom .fstick.down.left {
+    opacity: 10%;
+    background-position: 50px 650px;
+    opacity: 100%;
+}
+/*END Fight Stick Controller Styling*/
