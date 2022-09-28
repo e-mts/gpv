@@ -46,6 +46,13 @@
     background: url(https://mlgesus5183.github.io/guilt/D.png) no-repeat;
     background-position:center;
 }
+.custom .trigger-button.left {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background: url(https://mlgesus5183.github.io/guilt/D.png) no-repeat;
+    background-position:center;
+}
 
 .custom .button {
     width: 250px;
