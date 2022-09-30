@@ -52,14 +52,14 @@ Grey fightstick
 .custom .trigger-button.right {
     position: absolute;
     left: 0px;
-    top: 0px;
+    top: -50px;
     background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
     background-position:center;
 }
 .custom .trigger-button.left {
     position: absolute;
     left: 350px;
-    top: 0px;
+    top: -50px;
     background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
     background-position:center;
 }
@@ -88,7 +88,7 @@ Grey fightstick
 }
 .custom .b {
     position: absolute;
-    bottom: 0px;
+    bottom: 50px;
     left: 350px;
     right: 0x;
     background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
@@ -106,7 +106,7 @@ Grey fightstick
 
 .custom .y {
     position: absolute;
-    top: 0px;
+    top: -50px;
     right: 0px;
     background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
     background-position:center;
