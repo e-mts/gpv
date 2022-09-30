@@ -2,6 +2,7 @@
 
 This repository hosts several custom skins that can be accessed via web capture in your streaming software.
 
+This is fairly easy to edit (if you start with the 8-button layout).
 If you have any requests please let me know and I'll try to fulfill them within reason.
 
 ## Previews
