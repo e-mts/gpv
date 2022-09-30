@@ -25,13 +25,13 @@ Grey fightstick
 }
 .custom .bumper.right {
     position: absolute;
-    left: -105px;
+    left: -115px;
     top: -55px;
     background-position:center;
 }
 .custom .bumper.left {
     position: absolute;
-    left: -175px;
+    left: 115px;
     top: -55px;
     background-position:center;
 }
@@ -51,7 +51,7 @@ Grey fightstick
 }
 .custom .trigger-button.right {
     position: absolute;
-    left: 115px;
+    left: -115px;
     top: -55px;
     background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
     background-position:center;
