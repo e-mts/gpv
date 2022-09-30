@@ -20,7 +20,7 @@ Grey fightstick
     width: 250px;
     height: 250px;
     border-radius: 100%;
-    background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
+    background: url(https://e-mts.github.io/gpv/templates/stick-assets/default.png) no-repeat;
     opacity: 0.6;
 }
 .custom .bumper.right {
@@ -53,14 +53,14 @@ Grey fightstick
     position: absolute;
     left: -155px;
     top: -160px;
-    background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
+    background: url(https://e-mts.github.io/gpv/templates/stick-assets/default.png) no-repeat;
     background-position:center;
 }
 .custom .trigger-button.left {
     position: absolute;
     left: 115px;
     top: -160px;
-    background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
+    background: url(https://e-mts.github.io/gpv/templates/stick-assets/default.png) no-repeat;
     background-position:center;
 }
 
@@ -83,7 +83,7 @@ Grey fightstick
     position: absolute;
     bottom: 80px;
     left: 0px;
-    background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
+    background: url(https://e-mts.github.io/gpv/templates/stick-assets/default.png) no-repeat;
     background-position:center;
 }
 .custom .b {
@@ -91,7 +91,7 @@ Grey fightstick
     bottom: 160px;
     left: 272px;
     right: 0x;
-    background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
+    background: url(https://e-mts.github.io/gpv/templates/stick-assets/default.png) no-repeat;
     background-position:center;
 }
 
@@ -100,7 +100,7 @@ Grey fightstick
     position: absolute;
     top: 0px;
     left: 0px;
-    background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
+    background: url(https://e-mts.github.io/gpv/templates/stick-assets/default.png) no-repeat;
     background-position:center;
 }
 
@@ -108,7 +108,7 @@ Grey fightstick
     position: absolute;
     top: -80px;
     right: 79px;
-    background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
+    background: url(https://e-mts.github.io/gpv/templates/stick-assets/default.png) no-repeat;
     background-position:center;
 }
 .custom .button.pressed {
@@ -126,7 +126,7 @@ Grey fightstick
     left: -75px;
     width: 1000px;
     height: 1000px;
-    background: url(https://mlgesus5183.github.io/guilt/ball.png) no-repeat;
+    background: url(https://e-mts.github.io/gpv/templates/stick-assets/ball.png) no-repeat;
     background-position: center;
     transition: background-position 24ms;
     transition-timing-function: steps(3)

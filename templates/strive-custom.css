@@ -3,7 +3,7 @@ Grey fightstick
 */
 
 .controller.custom {
-   background: url("data:image/svg+xml,%3Csvg viewBox='0 0 2200 1000' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolygon points='125,200 425,150 725,200 775,500 725,800 425,850 125,800 75,500' style='fill:black;fill-opacity:.25;stroke:Black;stroke-width:60;fill-rule:nonzero;'/%3E%3Cpolygon points='125,200 425,150 725,200 775,500 725,800 425,850 125,800 75,500' style='fill:black;fill-opacity:.25;stroke:lightgrey;stroke-width:45;fill-rule:nonzero;'/%3E%3Ccircle cx='1895' cy='245' r='125'/%3E%3Ccircle cx='1895' cy='515' r='125'/%3E%3Ccircle cx='1085' cy='595' r='125'/%3E%3Ccircle cx='1085' cy='325' r='125'/%3E%3Ccircle cx='1355' cy='245' r='125'/%3E%3Ccircle cx='1625' cy='245' r='125'/%3E%3Ccircle cx='1625' cy='515' r='125'/%3E%3Ccircle cx='1355' cy='515' r='125'/%3E%3C/svg%3E%0A") no-repeat;
+   background: url("data:image/svg+xml,%3Csvg viewBox='0 0 2200 1000' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolygon points='125,200 425,150 725,200 775,500 725,800 425,850 125,800 75,500' style='fill:black;fill-opacity:.25;stroke:Black;stroke-width:60;fill-rule:nonzero;'/%3E%3Cpolygon points='125,200 425,150 725,200 775,500 725,800 425,850 125,800 75,500' style='fill:black;fill-opacity:.25;stroke:lightgrey;stroke-width:45;fill-rule:nonzero;'/%3E%3Ccircle cx='1895' cy='245' r='125'/%3E%3Ccircle cx='1085' cy='595' r='125'/%3E%3Ccircle cx='1085' cy='325' r='125'/%3E%3Ccircle cx='1355' cy='245' r='125'/%3E%3Ccircle cx='1625' cy='245' r='125'/%3E%3Ccircle cx='1355' cy='515' r='125'/%3E%3C/svg%3E%0A") no-repeat;
     background-position: left;
     height: 1000px;
     width: 2200px;
