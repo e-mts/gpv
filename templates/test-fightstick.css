@@ -51,7 +51,7 @@ Grey fightstick
 }
 .custom .trigger-button.right {
     position: absolute;
-    left: 160px;
+    left: -160px;
     top: -55px;
     background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
     background-position:center;
