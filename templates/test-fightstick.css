@@ -89,7 +89,7 @@ Grey fightstick
 .custom .b {
     position: absolute;
     bottom: 55px;
-    left: 270px;
+    left: 265px;
     right: 0x;
     background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
     background-position:center;
@@ -107,7 +107,7 @@ Grey fightstick
 .custom .y {
     position: absolute;
     top: -55px;
-    right: 80px;
+    right: 85px;
     background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
     background-position:center;
 }
