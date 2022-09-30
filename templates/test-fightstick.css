@@ -29,6 +29,12 @@ Grey fightstick
     top: 0px;
     background-position:center;
 }
+.custom .bumper.left {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-position:center;
+}
 
 .custom .triggers {
     width: 300px;
@@ -44,6 +50,13 @@ Grey fightstick
     opacity: 0.6;
 }
 .custom .trigger-button.right {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background: url(https://media.discordapp.net/attachments/572203187927252993/1025371962622607390/unknown.png) no-repeat;
+    background-position:center;
+}
+.custom .trigger-button.left {
     position: absolute;
     left: 0px;
     top: 0px;
