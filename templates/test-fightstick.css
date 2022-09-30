@@ -25,13 +25,13 @@ Grey fightstick
 }
 .custom .bumper.right {
     position: absolute;
-    left: 160px;
+    left: -160px;
     top: -55px;
     background-position:center;
 }
 .custom .bumper.left {
     position: absolute;
-    left: 190px;
+    left: -190px;
     top: -55px;
     background-position:center;
 }
