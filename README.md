@@ -12,7 +12,7 @@ If you have any requests please let me know and I'll try to fulfill them within 
 
 ![image](https://user-images.githubusercontent.com/61860605/193346892-39a4af9f-beaf-418b-9b5d-4f879f5355c1.png)
 
-Link: https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/8button-generic-viewlix.css
+Link: [https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/8button-generic-viewlix.css](https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/8button-generic-viewlix.css)
 
 ---
 
@@ -20,7 +20,7 @@ Link: https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/8
 
 ![image](https://user-images.githubusercontent.com/61860605/193347066-87ef2b10-4156-44f5-ac27-98924cc2b69a.png)
 
-Link: https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/guilty-arcadedefault.css
+Link: [https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/guilty-arcadedefault.css](https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/guilty-arcadedefault.css)
 
 ---
 
@@ -28,7 +28,7 @@ Link: https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/g
 
 ![image](https://user-images.githubusercontent.com/61860605/193347155-1376308f-769b-40e4-ad30-7c459e3d82bf.png)
 
-Link: https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/guilty-custom.css
+Link: [https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/guilty-custom.css](https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/guilty-custom.css)
 
 ---
 
@@ -36,7 +36,7 @@ Link: https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/g
 
 ![image](https://user-images.githubusercontent.com/61860605/193347225-fa40a9fe-941c-4f98-a40a-c4b2598626c3.png)
 
-Link: https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/strive-custom.css
+Link: [https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/strive-custom.css](https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/strive-custom.css)
 
 ## Instructions (Streamlabs OBS)
 
