@@ -52,6 +52,8 @@ Link: [https://gamepadviewer.com/?p=1&css=https://e-mts.github.io/gpv/templates/
 
 ---
 
-Edited from: https://mlgesus5183.github.io/
+Edited from: [https://mlgesus5183.github.io/](https://mlgesus5183.github.io/)
 
-Check out the original here: https://gamepadviewer.com/
+Check out the original here: [https://gamepadviewer.com/](https://gamepadviewer.com/)
+
+[Back to top ↑](#custom-gamepadviewer-skins-for-arcade-sticks)
